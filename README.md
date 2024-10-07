@@ -20,6 +20,18 @@ A HTTP server written in Java.
 * [SocketHttpClient](https://github.com/JonathanGiles/SocketHttpClient)<br>
 A very simple HTTP client written with the Java socket APIs and no external dependencies.
 
+* [javapoet](https://github.com/square/javapoet)<br>
+A Java API for generating .java source files.
+
+* [fx2j](https://github.com/Sheikah45/fx2j)<br>
+A post-processor that converts fxml files into Java builder source files.
+
+* [Scene Builder](https://github.com/gluonhq/scenebuilder)<br>
+Scene Builder is a visual, drag 'n' drop, layout tool for designing JavaFX application user interfaces.
+
 ## Developer
-* [Jonathan Giles](https://www.jonathangiles.net/)
+* [Jonathan Giles](https://www.jonathangiles.net/)<br>
 Principal Java Architect at Microsoft.
+
+* [Almas Baimagambetov](https://research.brighton.ac.uk/en/persons/almas-baimagambetov)<br>
+Principal Lecturer, Computing and Robotics Lead at the University of Brighton. A passionate software and game developer. PhD in Computer Science.
